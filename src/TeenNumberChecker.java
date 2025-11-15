@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the CalcFeetAndInchesToCentimeters class/methods.
+*************************************************************************** */
+
 public class TeenNumberChecker {
 
     public static boolean hasTeen (int one, int two, int three) {
